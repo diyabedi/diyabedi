@@ -1,7 +1,7 @@
 ## Hi, I am Diya ✨!
 
 🦁 MS in Data Science student at Columbia University, New York. <br/>
-🧠 Exploring ways to solve an actual problem with projects in **Advertising**, **Healthcare** and **FinTech**! <br/> 
+🧠 Exploring ways to solve an actual problem with projects in **Advertising**, , **Media and Tech**, and **FinTech**! <br/> 
 📊 Background in Mathematics with AdTech, now learning Machine Learning and AI. <br/>
 
 ### Fun Fact 🌻 <br/>
